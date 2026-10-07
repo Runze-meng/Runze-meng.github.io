@@ -1,6 +1,6 @@
 
 
-[![Runze-meng](https://img.shields.io/badge/Runze-meng-github-blue?logo=github)](https://github.com/Runze-Meng)
+[![Runze-meng](https://img.shields.io/badge/Runze--meng-github-blue?logo=github)](https://github.com/Runze-Meng)
 
 I am currently a junior undergraduate student in Data Science and Big Data Technology at Hainan University, enrolled in 2024.
 

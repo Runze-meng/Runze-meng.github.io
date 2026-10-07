@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="decord" />
+          <option value="einops" />
+          <option value="matplotlib" />
+          <option value="numpy" />
+          <option value="opencv-contrib-python" />
+          <option value="Pillow" />
+          <option value="scipy" />
+          <option value="torch" />
+          <option value="av" />
+          <option value="imgaug" />
+          <option value="librosa" />
+          <option value="lmdb" />
+          <option value="moviepy" />
+          <option value="onnx" />
+          <option value="onnxruntime" />
+          <option value="packaging" />
+          <option value="pims" />
+          <option value="PyTurboJPEG" />
+          <option value="timm" />
+          <option value="coverage" />
+          <option value="flake8" />
+          <option value="interrogate" />
+          <option value="isort" />
+          <option value="protobuf" />
+          <option value="pytest" />
+          <option value="pytest-runner" />
+          <option value="xdoctest" />
+          <option value="yapf" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
