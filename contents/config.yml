@@ -1,27 +1,20 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: Runze Meng's Homepage
+page-top-title: Runze Meng
+top-section-bg-text: Data Science and Big Data Technology
 backgrounds:
   - static/assets/background/background_0.jpeg
   - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Runze Meng 2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
-license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/Runze-Meng
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Runze Meng&ensp;|&ensp;孟润泽
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
-    icon: bi-file-text-fill
   - id: awards
     nav: AWARDS
     title: AWARDS
